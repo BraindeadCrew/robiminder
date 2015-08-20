@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "robiminder",
+    "packageName": "fr.braindead.robiminder",
+    "packageFolder": "fr/braindead/robiminder",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "40a235990319d705385b9d841562ec65728ee38d"
+  }
+}
